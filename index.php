@@ -11,7 +11,7 @@
     </div>
     <br>
     <div style="display: inline-flex; background-color: rgb(245, 175, 175); padding:5px;margin:10px;border-radius:10px;">
-      <h3 style="display: inline-flex; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding:0px 10px 0px 10px;">Created by Terli Bhuvana Chandra</h3>
+      <h3 style="display: inline-flex; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding:0px 10px 0px 10px;">Created by Bhuvan Chandra</h3>
     </div>
   </div>
 </body>
