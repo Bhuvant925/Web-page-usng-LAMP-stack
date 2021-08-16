@@ -1,0 +1,40 @@
+body{
+    align-content:center;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    margin:0px 0px 5px 0px;
+}
+
+form{
+    background-color: rgb(204, 204, 200);
+    display:inline;
+    margin:5px;
+    border-radius:10px;
+    padding:5px;
+    width: max-content;
+}
+.form-total{
+    display:inline-flex;
+}
+.form-elements{
+    text-align:left;
+    width:250px;
+    margin:10px;
+    padding:5px;
+}
+.input{
+    padding:5px;
+    border-radius:5px;
+    width:100%;
+    border-color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin:10px 5px 0px 0px;
+}
+.add{
+    margin:5px 15px 15px 15px;
+}
+.add:hover{
+    background-color:rgb(94, 255, 0);
+    color:whitesmoke;
+}

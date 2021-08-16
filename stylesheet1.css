@@ -1,0 +1,44 @@
+body{
+    color:white;
+    margin:20px;
+    background-size: 100% 100%;
+    background-color: rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+.top{
+    display:inline-flex;
+}
+.row-0{
+    text-align: center;
+    width:200px;
+}
+#capt{
+    font-family:'Arial Narrow Bold', sans-serif;
+    color:rgb(0, 0, 0);
+    font-size:large;
+}
+table{
+    padding-right:20px;
+}
+table,th,td{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    border: 1px solid white;
+    background-color: rgb(146, 143, 143);
+    border-collapse: collapse;
+    color:white;
+    padding:10px;
+    margin:20px;
+}
+#col{
+    text-align:center;
+}
+th{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+    text-align:left;
+    background-color: rgb(224, 236, 58);
+}
+#t1{
+    width:100%;
+}
